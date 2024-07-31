@@ -18,6 +18,8 @@
 # SDK
 ###########
 
+/.github/CODEOWNERS                                                  @lmazuel @xiangyan99 @kristapratico @Azure/azure-sdk-eng
+
 # Catch all
 /sdk/ @lmazuel
 
@@ -345,7 +347,7 @@
 
 # ServiceLabel: %Maps
 # PRLabel: %Maps
-/sdk/maps/                                                           @alextts627
+/sdk/maps/                                                           @dubiety @Lakicar95
 
 # ServiceLabel: %Mixed Reality
 # PRLabel: %Mixed Reality
