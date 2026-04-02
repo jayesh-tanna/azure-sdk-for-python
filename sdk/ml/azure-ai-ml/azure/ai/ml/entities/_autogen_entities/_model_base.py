@@ -4,7 +4,7 @@
 # Licensed under the MIT License. See License.txt in the project root for
 # license information.
 # --------------------------------------------------------------------------
-# pylint: disable=protected-access, broad-except, no-member
+# pylint: disable=protected-access, broad-except, no-member, unidiomatic-typecheck
 
 import base64
 import calendar
